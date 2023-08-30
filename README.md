@@ -1,0 +1,2 @@
+# cgobench
+Some cgo benchmarks
